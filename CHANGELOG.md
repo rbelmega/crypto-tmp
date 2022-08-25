@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/rbelmega/crypto-trade-tmp-1/compare/v1.3.0...v1.4.0) (2022-08-25)
+
+
+### Features
+
+* **some-jira-ticket:** add semantic release ([47041c3](https://github.com/rbelmega/crypto-trade-tmp-1/commit/47041c3a922d28fcb5e2b962dfb7679eed3e4e35))
+
 # [1.3.0](https://github.com/rbelmega/crypto-trade-tmp-1/compare/v1.2.0...v1.3.0) (2022-08-25)
 
 
