@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/rbelmega/crypto-tmp-1/compare/v1.7.0...v1.8.0) (2022-08-25)
+
+
+### Features
+
+* **some-jira-ticket:** application ([a4a4bc1](https://github.com/rbelmega/crypto-tmp-1/commit/a4a4bc17c8b097a27c8f25bbb6f0b618b08a09b8))
+
 # [1.7.0](https://github.com/rbelmega/crypto-tmp-1/compare/v1.6.0...v1.7.0) (2022-08-25)
 
 
