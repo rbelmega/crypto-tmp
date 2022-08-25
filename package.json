@@ -1,6 +1,9 @@
 {
   "name": "crypto-trade",
   "version": "1.1.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
