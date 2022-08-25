@@ -44,8 +44,8 @@ jobs:
    - run: cp "./build/package.json" "package.json"
    - run: |
       cp "./build/package.json" "package.json"
-      git config user.name "${{ secrets.USERNAME }}"
-      git config user.email "${{ secrets.USEREMAIL }}"
+      git config user.name "${{ github.event.pusher.name }}"
+      git config user.email "${{ github.event.pusher.email }}"
       git add package.json
       git commit -m "chore(release): package.json update [skip ci]"
       git push origin main
