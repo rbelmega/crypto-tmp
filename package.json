@@ -30,7 +30,7 @@
     "lint": "eslint ./src/*.{tsx,ts}",
     "lint:fix": "eslint --fix ./src/*.{tsx,ts}",
     "semantic-release": "semantic-release",
-    "prepare": "husky install"
+    "prepare": ""
   },
   "browserslist": {
     "production": [

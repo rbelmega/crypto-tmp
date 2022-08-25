@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/rbelmega/crypto-tmp-1/compare/v1.6.0...v1.7.0) (2022-08-25)
+
+
+### Features
+
+* **some-jira-ticket:** add semantic release ([b653023](https://github.com/rbelmega/crypto-tmp-1/commit/b653023035a4da6fdeba8ab76e3a1e17969e6236))
+* **some-jira-ticket:** add semantic release ([2c97561](https://github.com/rbelmega/crypto-tmp-1/commit/2c9756155f12d0c6aaafe167c663ae9640b873be))
+
 # [1.6.0](https://github.com/rbelmega/crypto-tmp-1/compare/v1.5.0...v1.6.0) (2022-08-25)
 
 
