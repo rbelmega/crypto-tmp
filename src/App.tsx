@@ -22,8 +22,8 @@ function App() {
 						<Box sx={{ width: 400, color: '#c2c2c2' }}>
 							<Link to="/" className="link">
 								Home
-							</Link>{' '}
-							|{' '}
+							</Link>
+							|
 							<Link to="about" className="link">
 								About
 							</Link>
